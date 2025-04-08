@@ -1,6 +1,6 @@
 # 📘 Linear Regression (From Scratch)
 
-## 📍 What is Regression?
+## 📍 What is Regression? 
  
 Regression is a way to **predict continuous values** using data.
 
