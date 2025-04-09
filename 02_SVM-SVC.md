@@ -1,4 +1,4 @@
-# 🧠 Support Vector Machine (SVM) — From Scratch
+![image](https://github.com/user-attachments/assets/b7e818cc-1ecb-416b-bee6-9606c6fdddbc)# 🧠 Support Vector Machine (SVM) — From Scratch
 
 ## 📌 What is SVM?
 
@@ -63,7 +63,7 @@ This is a **convex optimization problem**.
 
 Sometimes we can't draw a straight line to separate classes:
 
-![Non-linearly separable](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kernel_Machine.svg/512px-Kernel_Machine.svg.png)
+![Non-linearly separable](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Kernel_Machine.svg/512px-Kernel_Machine.svg.png)
 
 We solve this with:
 - **Soft Margin**: Allows some misclassification
@@ -80,18 +80,18 @@ We solve this with:
 - Works **only** when data is **perfectly separable**
 - Very sensitive to noise (outliers break it)
 
-![Hard Margin](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hard-margin.svg/512px-Hard-margin.svg.png)
+![image](https://miro.medium.com/v2/resize:fit:1400/1*RgFWpCEG5AvnmGF5ESy1Tg.png)
 
-[Source: Wikimedia Commons – Hard Margin SVM](https://commons.wikimedia.org/wiki/File:Hard-margin.svg)
+
+
+
 
 ### 🧻 Soft Margin SVM
 - Allows **some** points to be inside the margin or misclassified
 - More flexible and **works well on real-world data**
 - Controlled by a parameter `C`
 
-![Soft Margin](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Soft-margin.svg/512px-Soft-margin.svg.png)
 
-[Source: Wikimedia Commons – Soft Margin SVM](https://commons.wikimedia.org/wiki/File:Soft-margin.svg)
 
 -
 ### The C Parameter
