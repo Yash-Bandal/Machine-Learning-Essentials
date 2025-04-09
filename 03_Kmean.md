@@ -53,6 +53,7 @@ K-Means will:
 ## 📉 Objective: Minimize Inertia (SSE)
 
 The goal is to minimize **inertia**, i.e., the sum of squared distances between each point and its centroid:
+![image](https://github.com/user-attachments/assets/f94c25fb-8f12-4a79-8f22-d989dcde2063)
 
 \[
 J = \sum_{i=1}^{K} \sum_{x \in C_i} \|x - \mu_i\|^2
