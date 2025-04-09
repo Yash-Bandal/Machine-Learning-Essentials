@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b7e818cc-1ecb-416b-bee6-9606c6fdddbc)# 🧠 Support Vector Machine (SVM) — From Scratch
+# 🧠 Support Vector Machine (SVM) — From Scratch
 
 ## 📌 What is SVM?
 
