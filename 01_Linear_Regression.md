@@ -1,5 +1,7 @@
 # 📘 Linear Regression (From Scratch)
 
+# Note Dataframe -> StandardScalar --> Array --> Model .Model takes in array
+
 ## 📍 What is Regression?  
   
 Regression is a way to **predict continuous values** using data.
