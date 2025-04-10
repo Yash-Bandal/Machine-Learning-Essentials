@@ -1,4 +1,4 @@
-# 📊 K-Means Clustering — From Scratch
+# 📊 K-Means Clustering — From Scratch 
 
 ## 🧠 What is K-Means?
 
