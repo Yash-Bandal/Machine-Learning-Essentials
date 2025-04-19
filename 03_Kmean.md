@@ -1,5 +1,5 @@
 # 📊 K-Means Clustering — From Scratch 
- 
+  
 ## 🧠 What is K-Means? 
 
 **K-Means** is an **unsupervised learning** algorithm used for **clustering** — grouping similar data points together.
