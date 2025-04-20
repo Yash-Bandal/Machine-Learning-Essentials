@@ -5,7 +5,8 @@
 ## 📍 What is Regression?  
   
 Regression is a way to **predict continuous values** using data.
-Dwfinition - In machine learning, regression is a supervised learning technique used to predict a continuous numerical value based on one or more input features. It models the relationship between independent variables (features) and a dependent variable (target), allowing for predictions on unseen data.
+
+Definition - In machine learning, regression is a supervised learning technique used to predict a continuous numerical value based on one or more input features. It models the relationship between independent variables (features) and a dependent variable (target), allowing for predictions on unseen data.
 🔍 Example:  
 - Predict someone's **weight** from their **height**  
 - Predict a house's **price** from its **size**
