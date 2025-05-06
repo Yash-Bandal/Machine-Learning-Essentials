@@ -7,7 +7,7 @@
 It tries to divide a dataset into **K distinct, non-overlapping clusters**.
 
 ---
-
+ 
 ## 🧮 How does K-Means work?
 
 1. **Choose K** (number of clusters)
